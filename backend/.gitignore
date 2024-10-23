@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# IDE config
+/.vscode/
+/.idea/
+/gradle/
+/AppData/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Other directories
+public.zip
+public/
+vendor/
